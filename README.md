@@ -1,7 +1,7 @@
 
 
 # Overview
-HY USER,THIS TOOL IS DEVELOPED BY ANIKET(https://www.linkedin.com/in/aniket-work-885655271/),USE THIS TOOL FOR ETHICAL PURPOSE ONLY
+HY USER,THIS TOOL IS DEVELOPED BY ANIKET(https://www.linkedin.com/in/aniket-work-885655271/) ,USE THIS TOOL FOR ETHICAL PURPOSE ONLY
 
 Soc-helper is a tool developed with the task of aiding SOC analysts with automating part of their workflow. One of the goals of Sooty is to perform as many of the routine checks as possible, allowing the analyst more time to spend on deeper analysis within the same time-frame. Details for many of Sooty's features can be found below.
 

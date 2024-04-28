@@ -103,7 +103,7 @@ Sooty is now proudly supported by [Tines.com](https://tines.com?utm_source=githu
  - Replace the corresponding key in the `example_config.yaml` file, and rename the file to `config.yaml`, example layout below:
  - For PhishTank support, an unique app name is also required as an additional field. Simply update the `config.yaml` file with your unique name.
  
-![](readmeimages/example_config.png)
+
 
 ## Launch with Docker
 - docker build -t soc-helper . && docker run --rm -it soc-helper
@@ -131,14 +131,14 @@ Sooty is now proudly supported by [Tines.com](https://tines.com?utm_source=githu
  - If there is an issue with installation or usage, use the supplied template and I will respond ASAP.
 
  #### Requesting Features
- - New features / requests should start by opening an issue. Please use the accompanying template when creating a new issue. This helps track new features and prevent crossover. Attach any additional info that seems relevant if necessary. Before creating a new issue, please check the [Projects Tab](https://github.com/TheresAFewConors/Sooty/projects) to see if this issue has already been requested, or directly with the other open [issues.](https://github.com/TheresAFewConors/Sooty/issues)
+ - New features / requests should start by opening an issue. Please use the accompanying template when creating a new issue. This helps track new features and prevent crossover. Attach any additional info that seems relevant if necessary. Before creating a new issue, please check the [Projects Tab](https://github.com/Anikethr12/SOC-HELPER/projects) to see if this issue has already been requested, or directly with the other open [issues.](https://github.com/Anikethr12/SOC-HELPERissues)
  
 ## Changelog
 
 
 #### Version 1.3 - The Templating Update
  - Added first iteration of dynamic email templates that generate based on Soc-helper analysis, example below:
-![](readmeimages/templateGen.PNG)
+
 - Docker Image added
 - Unfurl added 
 
@@ -170,4 +170,4 @@ Sooty is now proudly supported by [Tines.com](https://tines.com?utm_source=githu
 
 
 
- ![](readmeimages/vt_hashchecker.gif)
+

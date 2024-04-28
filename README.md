@@ -16,7 +16,6 @@ Sooty is now proudly supported by [Tines.com](https://tines.com?utm_source=githu
  
  
  
-![](readmeimages/repcheck.gif)
 
 
 ## soc-helper can Currently:
